@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+title: "SymPy–JAX forward dynamics for a planar 3-RPR parallel manipulator"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Jacob
+    given-names: Akkarapakam Suneesh
+  - family-names: Manisankar
+    given-names: Sivasundar
+abstract: "Research implementation of reduced-coordinate forward dynamics for a planar 3-RPR parallel robot."
